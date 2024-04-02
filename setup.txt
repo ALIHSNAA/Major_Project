@@ -1,0 +1,11 @@
+conda create --prefix ./env python==3.12 -y
+
+C:\Users\Asif Hussain PC\anaconda3\envs\env
+
+conda info --envs
+
+conda activate ./env/
+
+pip install -r requirements.txt
+
+to run - streamlet run app.py  / python -m streamlit run app.py
