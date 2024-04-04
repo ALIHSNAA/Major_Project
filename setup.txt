@@ -9,3 +9,8 @@ conda activate ./env/
 pip install -r requirements.txt
 
 to run - streamlet run app.py  / python -m streamlit run app.py
+
+pip install packaging
+
+
+https://ml-system.onrender.com

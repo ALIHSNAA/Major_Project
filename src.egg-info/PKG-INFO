@@ -1,11 +1,10 @@
 Metadata-Version: 2.1
 Name: src
 Version: 0.0.1
-Summary: A small package for Movie Recommender System
-Home-page: https://github.com/entbappy/Books-Recommender-System-Using-Machine-Learning
+Summary: A small package for Book Recommender System
+Home-page: https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}
 Author: entbappy
-Author-email: entbappy73@gmail.com
-License: MIT
+Author-email: abrarkhan86@gmail.com
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 Requires-Dist: streamlit
