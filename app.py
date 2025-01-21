@@ -6,7 +6,7 @@ st.header('Book Recommendation System')
 model = pickle.load(open('artifacts/model.pkl', 'rb'))
 book_names = pickle.load(open('artifacts/books_name.pkl', 'rb'))
 final_rating = pickle.load(open('artifacts/final_rating.pkl', 'rb'))
-book_pivot = pickle.load(open('artifacts/book_pivot.pkl', 'rb'))
+book_pivot = pickle.load(open('artifacts/book_pivot.pkl', 'r'))
 
 
 def fetch_poster(suggestion):
